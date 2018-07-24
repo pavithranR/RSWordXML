@@ -1,0 +1,4 @@
+Add all the DLL as reference.
+
+Use RSWord DLL to generate word document.
+
